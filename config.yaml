@@ -1,0 +1,5 @@
+path: dataset
+train: /home/bezerra/Desktop/Estudos/IA_breast_cancer/dataset/images/train
+val: /home/bezerra/Desktop/Estudos/IA_breast_cancer/dataset/images/val
+nc: 2  # Número de classes (câncer e não-câncer)
+names: ['not-cancer', 'cancer']
